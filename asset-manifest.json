@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieHunt/static/css/main.5558f07a.css",
+    "main.js": "/MovieHunt/static/js/main.540e1fd1.js",
+    "static/media/404.png": "/MovieHunt/static/media/404.5944177917ac4f8b63ec.png",
+    "index.html": "/MovieHunt/index.html",
+    "main.5558f07a.css.map": "/MovieHunt/static/css/main.5558f07a.css.map",
+    "main.540e1fd1.js.map": "/MovieHunt/static/js/main.540e1fd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5558f07a.css",
+    "static/js/main.540e1fd1.js"
+  ]
+}
