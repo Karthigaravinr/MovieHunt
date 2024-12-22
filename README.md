@@ -15,7 +15,7 @@ A modern and responsive web application built using React.js and the MovieDB.org
  -> MovieDB API: For accessing real-time movie data.
  Installation and Setup
  **MovieHunt Image**
- ![image alt]()
+ ![image alt](https://github.com/Karthigaravinr/MovieHunt/blob/552b46412b0ccc8e484e8eb0924a3a007a45d2cf/Movie%20.png)
 
 **Clone the Repository**
    Copy code:
